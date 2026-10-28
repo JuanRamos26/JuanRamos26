@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+  <title id="title">Juan David Ramos Olmos</title>
+  <desc id="desc">Estudiante de Ingeniería de Sistemas y Computación. Software, datos y automatización.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1120"/><stop offset="1" stop-color="#172D46"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#43D9C6"/><stop offset="1" stop-color="#70B7FF"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#72A1C1" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1440" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1440" height="420" rx="24" fill="url(#grid)"/>
+  <rect x="64" y="64" width="44" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="124" y="71" fill="#92ABBf" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">JUANRAMOS26 / GITHUB</text>
+  <text x="64" y="163" fill="#F1F6FC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Juan David</text>
+  <text x="64" y="231" fill="#F1F6FC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Ramos Olmos</text>
+  <text x="67" y="282" fill="#B5CADC" font-family="Arial, Helvetica, sans-serif" font-size="22">Ingeniería de Sistemas y Computación</text>
+  <text x="67" y="350" fill="#5DE2D0" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1">SOFTWARE · DATOS · AUTOMATIZACIÓN</text>
+  <g transform="translate(957 65)">
+    <rect width="412" height="290" rx="18" fill="#0B1627" stroke="#33526F"/>
+    <path d="M0 47H412" stroke="#33526F"/>
+    <circle cx="24" cy="24" r="5" fill="#43D9C6"/><circle cx="43" cy="24" r="5" fill="#708BA7"/><circle cx="62" cy="24" r="5" fill="#708BA7"/>
+    <text x="238" y="29" fill="#93ADCA" font-family="monospace" font-size="13">perfil / desarrollo</text>
+    <text x="29" y="99" fill="#70B7FF" font-family="monospace" font-size="18">const enfoque = {</text>
+    <text x="50" y="139" fill="#B5CADC" font-family="monospace" font-size="17">web: <tspan fill="#5DE2D0">"construir"</tspan>,</text>
+    <text x="50" y="175" fill="#B5CADC" font-family="monospace" font-size="17">datos: <tspan fill="#5DE2D0">"conectar"</tspan>,</text>
+    <text x="50" y="211" fill="#B5CADC" font-family="monospace" font-size="17">equipo: <tspan fill="#5DE2D0">"colaborar"</tspan></text>
+    <text x="29" y="251" fill="#70B7FF" font-family="monospace" font-size="18">};</text>
+  </g>
+</svg>
